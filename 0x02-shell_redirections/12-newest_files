@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --reverse -lt
+ls -1 -t
