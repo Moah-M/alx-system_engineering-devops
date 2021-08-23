@@ -1,3 +1,5 @@
 [user]
 	name = Moah-M
 	email = Moah-M
+[credential]
+	helper = store
