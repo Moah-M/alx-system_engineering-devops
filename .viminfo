@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629749146,,"wq"
+|2,0,1629749985,,"wq"
 :q
 |2,0,1629202415,,"q"
 :w
@@ -34,36 +34,132 @@
 # Registers:
 
 # File marks:
-'0  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,48,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
-'1  2  60  ~/0x02-shell_redirections/7-file
-|4,49,2,60,1629746495,"~/0x02-shell_redirections/7-file"
-'2  1  26  ~/0x00-shell_basics/school.mgc
-|4,50,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
-'3  1  26  ~/0x00-shell_basics/school.mgc
-|4,51,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
-'4  1  12  ~/0x00-shell_basics/school.mgc
-|4,52,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
-'5  1  12  ~/0x00-shell_basics/school.mgc
-|4,53,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
-'6  1  10  ~/0x00-shell_basics/school.mgc
-|4,54,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
-'7  1  10  ~/0x00-shell_basics/school.mgc
-|4,55,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
-'8  1  10  ~/0x00-shell_basics/school.mgc
-|4,56,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
-'9  1  10  ~/0x00-shell_basics/school.mgc
-|4,57,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
+'0  2  34  ~/10-no_more_js
+|4,48,2,34,1629749985,"~/10-no_more_js"
+'1  1  0  ~/1ckear
+|4,49,1,0,1629749933,"~/1ckear"
+'2  1  0  ~/10-no_more_js
+|4,50,1,0,1629749921,"~/10-no_more_js"
+'3  1  0  ~/10-no_more_js
+|4,51,1,0,1629749921,"~/10-no_more_js"
+'4  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,52,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+'5  2  60  ~/0x02-shell_redirections/7-file
+|4,53,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+'6  1  26  ~/0x00-shell_basics/school.mgc
+|4,54,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+'7  1  26  ~/0x00-shell_basics/school.mgc
+|4,55,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+'8  1  12  ~/0x00-shell_basics/school.mgc
+|4,56,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
+'9  1  12  ~/0x00-shell_basics/school.mgc
+|4,57,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
 
 # Jumplist (newest first):
+-'  2  34  ~/10-no_more_js
+|4,39,2,34,1629749985,"~/10-no_more_js"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749950,"~/10-no_more_js"
+-'  1  0  ~/1ckear
+|4,39,1,0,1629749933,"~/1ckear"
+-'  1  0  ~/1ckear
+|4,39,1,0,1629749933,"~/1ckear"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749921,"~/10-no_more_js"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749921,"~/10-no_more_js"
 -'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
 |4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
 -'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
 |4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
 -'  2  60  ~/0x02-shell_redirections/7-file
 |4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
 -'  2  60  ~/0x02-shell_redirections/7-file
 |4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
 -'  1  0  ~/0x02-shell_redirections/7-file
 |4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
 -'  1  0  ~/0x02-shell_redirections/7-file
@@ -77,6 +173,66 @@
 -'  1  26  ~/0x00-shell_basics/school.mgc
 |4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
 -'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
 |4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
 -'  1  26  ~/0x00-shell_basics/school.mgc
 |4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
@@ -84,180 +240,35 @@
 |4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
 -'  1  26  ~/0x00-shell_basics/school.mgc
 |4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  12  ~/0x00-shell_basics/school.mgc
-|4,39,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
--'  1  12  ~/0x00-shell_basics/school.mgc
-|4,39,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
--'  1  12  ~/0x00-shell_basics/school.mgc
-|4,39,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
--'  1  12  ~/0x00-shell_basics/school.mgc
-|4,39,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
--'  1  10  ~/0x00-shell_basics/school.mgc
-|4,39,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
--'  1  10  ~/0x00-shell_basics/school.mgc
-|4,39,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
--'  1  10  ~/0x00-shell_basics/school.mgc
-|4,39,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
--'  1  10  ~/0x00-shell_basics/school.mgc
-|4,39,1,10,1629404550,"~/0x00-shell_basics/school.mgc"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629267496,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
--'  2  2  ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
-|4,39,2,2,1629266697,"~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  26  ~/0x00-shell_basics/school.mgc
+|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
 
 # History of marks within files (newest to oldest):
+
+> ~/10-no_more_js
+	*	1629749983	0
+	"	2	34
+	^	2	35
+	.	2	34
+	+	2	34
+
+> ~/1ckear
+	*	1629749931	0
+	"	1	0
 
 > ~/0x02-shell_redirections/9-duplicate_last_line
 	*	1629749143	0
