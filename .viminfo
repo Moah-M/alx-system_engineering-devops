@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629749985,,"wq"
+|2,0,1629751258,,"wq"
 :q
 |2,0,1629202415,,"q"
 :w
@@ -34,36 +34,52 @@
 # Registers:
 
 # File marks:
-'0  2  34  ~/10-no_more_js
-|4,48,2,34,1629749985,"~/10-no_more_js"
-'1  1  0  ~/1ckear
-|4,49,1,0,1629749933,"~/1ckear"
-'2  1  0  ~/10-no_more_js
-|4,50,1,0,1629749921,"~/10-no_more_js"
+'0  2  13  ~/13-unique
+|4,48,2,13,1629751258,"~/13-unique"
+'1  2  34  ~/10-no_more_js
+|4,49,2,34,1629749985,"~/10-no_more_js"
+'2  1  0  ~/1ckear
+|4,50,1,0,1629749933,"~/1ckear"
 '3  1  0  ~/10-no_more_js
 |4,51,1,0,1629749921,"~/10-no_more_js"
-'4  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,52,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
-'5  2  60  ~/0x02-shell_redirections/7-file
-|4,53,2,60,1629746495,"~/0x02-shell_redirections/7-file"
-'6  1  26  ~/0x00-shell_basics/school.mgc
-|4,54,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+'4  1  0  ~/10-no_more_js
+|4,52,1,0,1629749921,"~/10-no_more_js"
+'5  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,53,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+'6  2  60  ~/0x02-shell_redirections/7-file
+|4,54,2,60,1629746495,"~/0x02-shell_redirections/7-file"
 '7  1  26  ~/0x00-shell_basics/school.mgc
-|4,55,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
-'8  1  12  ~/0x00-shell_basics/school.mgc
-|4,56,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
+|4,55,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+'8  1  26  ~/0x00-shell_basics/school.mgc
+|4,56,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
 '9  1  12  ~/0x00-shell_basics/school.mgc
 |4,57,1,12,1629404636,"~/0x00-shell_basics/school.mgc"
 
 # Jumplist (newest first):
+-'  2  13  ~/13-unique
+|4,39,2,13,1629751258,"~/13-unique"
+-'  1  0  ~/13-unique
+|4,39,1,0,1629751212,"~/13-unique"
 -'  2  34  ~/10-no_more_js
 |4,39,2,34,1629749985,"~/10-no_more_js"
+-'  2  34  ~/10-no_more_js
+|4,39,2,34,1629749985,"~/10-no_more_js"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749950,"~/10-no_more_js"
 -'  1  0  ~/10-no_more_js
 |4,39,1,0,1629749950,"~/10-no_more_js"
 -'  1  0  ~/1ckear
 |4,39,1,0,1629749933,"~/1ckear"
 -'  1  0  ~/1ckear
 |4,39,1,0,1629749933,"~/1ckear"
+-'  1  0  ~/1ckear
+|4,39,1,0,1629749933,"~/1ckear"
+-'  1  0  ~/1ckear
+|4,39,1,0,1629749933,"~/1ckear"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749921,"~/10-no_more_js"
+-'  1  0  ~/10-no_more_js
+|4,39,1,0,1629749921,"~/10-no_more_js"
 -'  1  0  ~/10-no_more_js
 |4,39,1,0,1629749921,"~/10-no_more_js"
 -'  1  0  ~/10-no_more_js
@@ -84,6 +100,38 @@
 |4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
 -'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
 |4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
+|4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
 -'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
 |4,39,1,0,1629749110,"~/0x02-shell_redirections/9-duplicate_last_line"
 -'  1  0  ~/0x02-shell_redirections/9-duplicate_last_line
@@ -132,6 +180,38 @@
 |4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
 -'  2  60  ~/0x02-shell_redirections/7-file
 |4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
+-'  2  60  ~/0x02-shell_redirections/7-file
+|4,39,2,60,1629746495,"~/0x02-shell_redirections/7-file"
 -'  1  0  ~/0x02-shell_redirections/7-file
 |4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
 -'  1  0  ~/0x02-shell_redirections/7-file
@@ -164,100 +244,27 @@
 |4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
 -'  1  0  ~/0x02-shell_redirections/7-file
 |4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
--'  1  26  ~/0x00-shell_basics/school.mgc
-|4,39,1,26,1629404744,"~/0x00-shell_basics/school.mgc"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
+-'  1  0  ~/0x02-shell_redirections/7-file
+|4,39,1,0,1629746333,"~/0x02-shell_redirections/7-file"
 
 # History of marks within files (newest to oldest):
+
+> ~/13-unique
+	*	1629751256	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
 
 > ~/10-no_more_js
 	*	1629749983	0
