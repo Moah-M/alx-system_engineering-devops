@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1629820142,,"wq"
+|2,0,1629822825,,"wq"
 :q
 |2,0,1629202415,,"q"
 :w
@@ -34,230 +34,349 @@
 # Registers:
 
 # File marks:
-'0  2  76  ~/0x02-shell_redirections/7-file
-|4,48,2,76,1629820142,"~/0x02-shell_redirections/7-file"
-'1  1  0  ~/.ssh/id_ed25519.pub
-|4,49,1,0,1629819712,"~/.ssh/id_ed25519.pub"
-'2  2  13  ~/13-unique
-|4,50,2,13,1629751258,"~/13-unique"
-'3  2  34  ~/10-no_more_js
-|4,51,2,34,1629749985,"~/10-no_more_js"
-'4  1  0  ~/1ckear
-|4,52,1,0,1629749933,"~/1ckear"
-'5  1  0  ~/10-no_more_js
-|4,53,1,0,1629749921,"~/10-no_more_js"
-'6  1  0  ~/10-no_more_js
-|4,54,1,0,1629749921,"~/10-no_more_js"
-'7  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,55,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
-'8  2  60  ~/0x02-shell_redirections/7-file
-|4,56,2,60,1629746495,"~/0x02-shell_redirections/7-file"
-'9  1  26  ~/0x00-shell_basics/school.mgc
-|4,57,1,26,1629445361,"~/0x00-shell_basics/school.mgc"
+'0  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,48,1,0,1629822825,"~/0x03-shell_variables_expansions/0-alias"
+'1  1  13  ~/0x03-shell_variables_expansions/0-alias
+|4,49,1,13,1629822806,"~/0x03-shell_variables_expansions/0-alias"
+'2  2  85  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,50,2,85,1629822318,"~/0x02-shell_redirections/103-the_biggest_fan"
+'3  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,51,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+'4  2  89  ~/0x02-shell_redirections/101-gifs
+|4,52,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+'5  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,53,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+'6  2  33  ~/0x02-shell_redirections/22-users_and_homes
+|4,54,2,33,1629821830,"~/0x02-shell_redirections/22-users_and_homes"
+'7  2  2  ~/0x02-shell_redirections/21-reverse
+|4,55,2,2,1629821756,"~/0x02-shell_redirections/21-reverse"
+'8  2  7  ~/0x02-shell_redirections/20-hiago
+|4,56,2,7,1629821571,"~/0x02-shell_redirections/20-hiago"
+'9  2  7  ~/0x02-shell_redirections/19-AZ
+|4,57,2,7,1629821460,"~/0x02-shell_redirections/19-AZ"
 
 # Jumplist (newest first):
--'  2  76  ~/0x02-shell_redirections/7-file
-|4,39,2,76,1629820142,"~/0x02-shell_redirections/7-file"
--'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1629819712,"~/.ssh/id_ed25519.pub"
--'  1  0  ~/.ssh/id_ed25519.pub
-|4,39,1,0,1629819712,"~/.ssh/id_ed25519.pub"
--'  2  13  ~/13-unique
-|4,39,2,13,1629751258,"~/13-unique"
--'  2  13  ~/13-unique
-|4,39,2,13,1629751258,"~/13-unique"
--'  2  13  ~/13-unique
-|4,39,2,13,1629751258,"~/13-unique"
--'  2  13  ~/13-unique
-|4,39,2,13,1629751258,"~/13-unique"
--'  1  0  ~/13-unique
-|4,39,1,0,1629751212,"~/13-unique"
--'  1  0  ~/13-unique
-|4,39,1,0,1629751212,"~/13-unique"
--'  1  0  ~/13-unique
-|4,39,1,0,1629751212,"~/13-unique"
--'  1  0  ~/13-unique
-|4,39,1,0,1629751212,"~/13-unique"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  2  34  ~/10-no_more_js
-|4,39,2,34,1629749985,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749950,"~/10-no_more_js"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/1ckear
-|4,39,1,0,1629749933,"~/1ckear"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  1  0  ~/10-no_more_js
-|4,39,1,0,1629749921,"~/10-no_more_js"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
--'  2  21  ~/0x02-shell_redirections/9-duplicate_last_line
-|4,39,2,21,1629749146,"~/0x02-shell_redirections/9-duplicate_last_line"
+-'  1  0  ~/0x03-shell_variables_expansions/0-alias
+|4,39,1,0,1629822825,"~/0x03-shell_variables_expansions/0-alias"
+-'  1  13  ~/0x03-shell_variables_expansions/0-alias
+|4,39,1,13,1629822806,"~/0x03-shell_variables_expansions/0-alias"
+-'  2  85  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,85,1629822318,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  85  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,85,1629822318,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  85  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,85,1629822318,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  85  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,85,1629822318,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1629822254,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1629822254,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1629822254,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1629822254,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1629822220,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1629822180,"~/0x02-shell_redirections/102-acrostic"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1629822120,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1629822035,"~/0x02-shell_redirections/101-gifs"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  24  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,24,1629822005,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1629821979,"~/0x02-shell_redirections/100-empty_casks"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x03-shell_variables_expansions/0-alias
+	*	1629822823	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/0x02-shell_redirections/103-the_biggest_fan
+	*	1629822316	0
+	"	2	85
+	^	2	86
+	.	2	85
+	+	2	85
+
+> ~/0x02-shell_redirections/102-acrostic
+	*	1629822219	0
+	"	2	37
+	^	2	38
+	.	2	35
+	+	2	35
+
+> ~/0x02-shell_redirections/101-gifs
+	*	1629822118	0
+	"	2	89
+	^	2	90
+	.	2	89
+	+	2	89
+
+> ~/0x02-shell_redirections/100-empty_casks
+	*	1629822004	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/0x02-shell_redirections/22-users_and_homes
+	*	1629821829	0
+	"	2	33
+	^	2	34
+	.	3	0
+	+	3	0
+
+> ~/0x02-shell_redirections/21-reverse
+	*	1629821755	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/0x02-shell_redirections/20-hiago
+	*	1629821570	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/0x02-shell_redirections/19-AZ
+	*	1629821459	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> ~/0x02-shell_redirections/18-letteronly
+	*	1629821387	0
+	"	2	36
+	^	2	37
+	.	2	36
+	+	2	36
+
+> ~/0x02-shell_redirections/17-hidethisword
+	*	1629821298	0
+	"	2	29
+	^	2	30
+	.	2	29
+	+	2	29
+
+> ~/0x02-shell_redirections/16-whatsnext
+	*	1629821092	0
+	"	2	33
+	^	2	34
+	.	3	0
+	+	1	11
+	+	2	34
+	+	3	0
+
+> ~/0x02-shell_redirections/15-countthatword
+	*	1629821015	0
+	"	2	35
+	^	2	36
+	.	2	35
+	+	2	35
+
+> ~/0x02-shell_redirections/14-findthatword
+	*	1629820914	0
+	"	2	28
+	^	2	29
+	.	2	27
+	+	2	27
+
+> ~/0x02-shell_redirections/12-newest_files
+	*	1629820839	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/0x02-shell_redirections/11-directories
+	*	1629820672	0
+	"	2	17
+	^	2	18
+	.	2	17
+	+	2	17
+
+> ~/0x02-shell_redirections/10-no_more_js
+	*	1629820443	0
+	"	2	31
+	^	2	32
 
 > ~/0x02-shell_redirections/7-file
 	*	1629820138	0
